@@ -1,0 +1,11 @@
+Question 1: Can algorithms like SMOTE/ROSE which synthesize new examples from the training data be called Generative AI?
+
+SMOTE (Synthetic Minority Over-sampling Technique) and ROSE (Random Over-Sampling Examples)  are generative techniques that create synthetic data points to address class imbalance in datasets, but they aren't typically considered Generative AI.
+Generative AI learns complex data distributions to generate realistic new data. 
+The scope and complexity of Generative AI are broader, spanning applications from image synthesis to text generation.
+Thus, while SMOTE and ROSE generate data, they are simpler and more focused on preprocessing for classification tasks.
+
+
+
+
+
